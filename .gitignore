@@ -1,0 +1,12 @@
+# Fichiers compilés
+*.o
+*.a
+*.so
+
+# Exécutables (à adapter selon les noms)
+hcompress
+unhcompress
+
+# Archives
+*.tar.gz
+*.zip
