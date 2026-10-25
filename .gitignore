@@ -10,3 +10,11 @@ unhcompress
 # Archives
 *.tar.gz
 *.zip
+
+# Fichiers temporaires d'éditeur
+.#*
+*~
+
+# Sorties des tests
+tests/*.bin
+tests/*.out

@@ -1,6 +1,13 @@
 # Compression et décompression à la Huffman
 
+[![CI](https://github.com/RIZIWYX/huffman/actions/workflows/ci.yml/badge.svg)](https://github.com/RIZIWYX/huffman/actions/workflows/ci.yml)
+![Langage](https://img.shields.io/badge/langage-C23-blue)
+![Gain](https://img.shields.io/badge/gain%20sur%20texte-~45%25-brightgreen)
+[![Licence MIT](https://img.shields.io/badge/licence-MIT-green)](LICENSE)
+
 Implémentation complète en **C (C23 / `-std=c2x`)** d'un compresseur **et** d'un décompresseur fondés sur les arbres de Huffman, réalisée dans le cadre du TP n°6 d'**Algorithmique 3 — structures de données arborescentes** (Licence Informatique 2ᵉ année, Université de Rouen Normandie, 2025-2026).
+
+**Équipe :** Rayane Graïne, Accyl Benajaoud et Hafsa Hamache (trio).
 
 L'objectif : produire un format binaire compact dans lequel les caractères les plus fréquents du fichier source reçoivent les codes les plus courts, et inversement.
 
@@ -79,7 +86,6 @@ Huffman/
 │   └── reference/         # (optionnel, non versionné) binaires de l'UE
 │
 ├── makefile               # Cibles all / test / clean / dist
-├── algo3_huffman.pdf      # Sujet du TP
 ├── SECURITE.md            # Write-up : robustesse face aux entrées hostiles
 ├── LICENSE                # MIT
 ├── .gitignore
