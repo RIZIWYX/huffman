@@ -5,6 +5,8 @@
 ![Gain](https://img.shields.io/badge/gain%20sur%20texte-~45%25-brightgreen)
 [![Licence MIT](https://img.shields.io/badge/licence-MIT-green)](LICENSE)
 
+![Démo : compression de Les Misérables (3 Mo vers 1,7 Mo), décompression et tests](docs/demo.gif)
+
 Implémentation complète en **C (C23 / `-std=c2x`)** d'un compresseur **et** d'un décompresseur fondés sur les arbres de Huffman, réalisée dans le cadre du TP n°6 d'**Algorithmique 3 — structures de données arborescentes** (Licence Informatique 2ᵉ année, Université de Rouen Normandie, 2025-2026).
 
 **Équipe :** Rayane Graïne, Accyl Benadjaoud et Hafsa Hamache (trio).
