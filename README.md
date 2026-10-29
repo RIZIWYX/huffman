@@ -1,6 +1,6 @@
 # Compression et décompression à la Huffman
 
-[![CI](https://github.com/RIZIWYX/huffman/actions/workflows/ci.yml/badge.svg)](https://github.com/RIZIWYX/huffman/actions/workflows/ci.yml)
+[![CI](https://github.com/RIZIWYX/Huffman/actions/workflows/ci.yml/badge.svg)](https://github.com/RIZIWYX/Huffman/actions/workflows/ci.yml)
 ![Langage](https://img.shields.io/badge/langage-C23-blue)
 ![Gain](https://img.shields.io/badge/gain%20sur%20texte-~45%25-brightgreen)
 [![Licence MIT](https://img.shields.io/badge/licence-MIT-green)](LICENSE)
